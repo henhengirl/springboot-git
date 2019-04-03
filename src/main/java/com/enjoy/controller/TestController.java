@@ -9,6 +9,7 @@ public class TestController {
 
     @RequestMapping(value = "/test")
     public Object test(){
-        return "Hello , git , I'm master ! heihei ! ";
+        return "Hello , git , I'm master ! merge ! ";
+
     }
 }
